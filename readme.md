@@ -22,7 +22,7 @@ The system integrates:
   Satellite images fetched programmatically using latitude and longitude via **Mapbox Static Images API**
 
 ---
-
+### Output csv and pdf present inside output folder
 
 ## Methodology
 
